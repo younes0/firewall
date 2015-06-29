@@ -15,6 +15,13 @@
         }
     ],
 
+    "repositories": [
+        {
+            "url": "https://github.com/younes0/firewall",
+            "type": "git"
+        }
+    ],
+    
     "require": {
         "php": ">=5.3.7",
         "illuminate/support": "~4|~5",
