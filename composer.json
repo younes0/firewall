@@ -33,7 +33,7 @@
         "illuminate/support": "~4|~5",
         "illuminate/cache": "~4|~5",
         "illuminate/filesystem": "~4|~5",
-        "pragmarx/support": "dev-master@dev"
+        "younes0/firewall-support": "dev-master@dev"
     },
 
     "suggest": {
