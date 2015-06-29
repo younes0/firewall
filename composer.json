@@ -23,7 +23,7 @@
     
     "repositories": [
         {
-            "url": "https://github.com/younes0/firewall",
+            "url": "https://github.com/younes0/firewall.git",
             "type": "git"
         }
     ],
